@@ -22,4 +22,4 @@ A specialized staff tool designed for room assignment and real-time task trackin
 *   **Real-Time:** WebSockets
 
 ---
-**Role:** Software Engineer & AI Strategist | [michellevision.com](https://michellevision.com)
+**Role:** Hospitality Technology Engineer | [michellevision.com](https://michellevision.com)
