@@ -21,5 +21,3 @@ A specialized staff tool designed for room assignment and real-time task trackin
 *   **Local Storage:** `expo-sqlite`
 *   **Real-Time:** WebSockets
 
----
-**Role:** Hospitality Technology Engineer | [michellevision.com](https://michellevision.com)
